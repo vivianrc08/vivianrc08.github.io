@@ -202,11 +202,13 @@ pre {
 
 figure {
   margin: 0 0 1rem;
+  
 }
 
 img {
   vertical-align: middle;
   border-style: none;
+  border-radius: 10px;
 }
 
 svg {
@@ -12177,8 +12179,9 @@ pre .code {
 }
 
 .about-img-holder .about-img {
-  width: 100%;
+  width: 70%;
   margin-bottom: 15px;
+  border-radius: 20px;
 }
 
 .about-caption {
